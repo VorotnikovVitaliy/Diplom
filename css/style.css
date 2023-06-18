@@ -471,7 +471,7 @@ p {
 .one-block-main-img > img {
     width: 100%;
     padding: 24px;
-    height: fit-content;
+    height: auto;
 }
 
 /* adaptiv */
