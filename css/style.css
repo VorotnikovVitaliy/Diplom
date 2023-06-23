@@ -494,12 +494,6 @@ p {
     }
 }
 
-@media only screen and (max-width: 767px) {
-    .material-symbols-outlined {
-        font-size: 20px !important;
-    }
-}
-
 /*  *//*  *//*  *//*  *//*  *//*  */
 /* Основной блок главной страницы */
 /*  *//*  *//*  *//*  *//*  *//*  */
